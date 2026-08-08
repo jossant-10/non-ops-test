@@ -6,12 +6,12 @@
             <group id="p1">
                 <trans-unit id="1" translate="no">
                     <source>This article contains important reference material you need when you
-                        monitor Azure Virtual Machines. This is a test test test. Jack be nimble jack be quick.</source>
+                        monitor Azure Virtual Machines. This is a test test test. Jack be nimble jack be quick. Jack jumped over a candle stick.</source>
                 </trans-unit>
                 <group id="s1">
                     <trans-unit id="2" translate="yes">
                         <source>This article contains important reference material you need when you
-                            monitor Azure Virtual Machines. This is a test test test. Jack be nimble jack be quick.</source>
+                            monitor Azure Virtual Machines. This is a test test test. Jack be nimble jack be quick. Jack jumped over a candle stick.</source>
                     </trans-unit>
                 </group>
             </group>
