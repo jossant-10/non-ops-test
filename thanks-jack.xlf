@@ -6,12 +6,12 @@
             <group id="p1">
                 <trans-unit id="1" translate="no">
                     <source>This article contains important reference material you need when you
-                        monitor Azure Virtual Machines. This is a test test test. Peanut butter toast. Hot black coffee.</source>
+                        monitor Azure Virtual Machines. This is a test test test. Peanut butter toast. Hot black coffee. Testing something.</source>
                 </trans-unit>
                 <group id="s1">
                     <trans-unit id="2" translate="yes">
                         <source>This article contains important reference material you need when you
-                            monitor Azure Virtual Machines. This is a test test test. Peanut butter toast. Hot black coffee.</source>
+                            monitor Azure Virtual Machines. This is a test test test. Peanut butter toast. Hot black coffee. Testing something.</source>
                     </trans-unit>
                 </group>
             </group>
